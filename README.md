@@ -1,12 +1,19 @@
-<h1 align="center">👋 Hola, Mi es Lorena Ponton </h1>
 
-<h3 align="center">
-Desarrolladora de Software | Backend Java & Spring Boot | APIs REST | SQL | React
-</h3>
+
+<h1 align="center"> ¡Bienvenido/a a mi espacio en GitHub!</h1>
+
+<h2 align="center"> 👋Lorena Pontón </h2>
 
 <p align="center">
-Construyo soluciones tecnológicas orientadas a resolver problemas reales,
-combinando desarrollo de software, datos e inteligencia artificial.
+  <strong> Desarrollo software, aplico IA y convierto ideas en soluciones 🚀</strong>
+</p>
+
+<p align="center">
+  Java • Spring Boot • APIs REST • React • SQL • Inteligencia Artificial
+</p>
+
+<p align="center">
+  Aquí encontrarás proyectos construidos a partir de retos reales, investigación y hackathones.
 </p>
 
 ---
