@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Lorena</h1>
+<h1 align="center">👋 Hola, Mi es Lorena Ponton </h1>
 
 <h3 align="center">
 Desarrolladora de Software | Backend Java & Spring Boot | APIs REST | SQL | React
